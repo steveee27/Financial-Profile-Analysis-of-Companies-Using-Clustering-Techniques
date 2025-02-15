@@ -25,6 +25,7 @@ The dataset consists of multiple financial metrics across several companies in d
 - **Net Profit Margin**: Percentage of revenue that becomes profit.
 - **Number of Employees**: The size of the company's workforce.
 - **Industry Focus**: The industry sector (e.g., Information Technology, Electronics, Finance).
+- etc.
 
 The dataset reflects a comprehensive look at the companies’ financial strength, profitability, and workforce scale, forming the basis of the clustering analysis.
 
