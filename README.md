@@ -1,0 +1,2 @@
+# Financial-Profile-Analysis-of-Companies-Using-Clustering-Techniques
+This project analyzes the financial attributes of companies from various industries and uses clustering techniques to group them into two distinct clusters. Based on the clustering results, insights and recommendations are provided to improve business strategies, focusing on financial strength, market presence, and industry representation.
